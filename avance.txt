@@ -1,0 +1,13 @@
+//Avances y pendientes
+
+//2024//
+27/01 :: sigo jugando con la interfaz, tratando de crear algpun diseño y aprendiendo de la plataforma
+28/01 :: construi un main principal para la seleccion de las calculadoras
+
+[[avances]]
+Creacion de la interfaz y botones 1-9
+
+
+[[pendientes]]
+crear resolucion de ecuaciones
+crear botones de calculadora cientifica
